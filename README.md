@@ -1,6 +1,6 @@
-# Project Title
+## MetaCrafters - Solidity beginner [Token Creation]
 
-MetaCrafters - Solidity beginner [Token Creation]
+Creating a solidity token named "Apple" and demonstrating minting and burning
 
 ## Description
 
